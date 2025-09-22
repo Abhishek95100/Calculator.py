@@ -2,9 +2,9 @@
 
 print("select operestion ")
 print("1 .Add")
-print("2.subtract")
+print("2 .subtract")
 print("3 .multipal")
-print("4.divide")
+print("4 .divide")
 
 # user choice
 
